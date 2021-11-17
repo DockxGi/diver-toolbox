@@ -1,0 +1,7 @@
+min-tool
+=========
+Reads float values separated by spaces from the stdin and prints the minimum value to stdout.
+
+Examples:
+./min-tool < test.values.txt
+echo "14.8 11.91 19" | ./min-tool
