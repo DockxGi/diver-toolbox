@@ -11,3 +11,6 @@ max-tool.o: max-tool.c stats.h
 	gcc -c max-tool.c
 
 max-tool: max-tool.o stats.o
+
+sum-tool:
+	gcc sum-tool.c -o sum-tool
