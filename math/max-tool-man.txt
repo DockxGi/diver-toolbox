@@ -1,0 +1,7 @@
+max-tool
+=========
+Reads float values separated by spaces from the stdin and prints the maximum value to stdout.
+
+Examples:
+./max-tool < test.values.txt
+echo "14.8 11.91 19" | ./max-tool
