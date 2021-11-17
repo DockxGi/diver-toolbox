@@ -1,7 +1,3 @@
-/*
- * Tool to calculate the minimum value of a list of values.
- * Expects the values to be separated by spaces and one space at the end. (example: 10.2 9.12 3.13 )
- */
 #include <stdio.h>
 #include "stats.h"
 
