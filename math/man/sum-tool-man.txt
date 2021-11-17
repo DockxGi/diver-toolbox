@@ -1,0 +1,7 @@
+min-tool
+=========
+Reads float values separated by spaces from the stdin and prints the sum of the values to stdout.
+
+Examples:
+./sum-tool < test.values.txt
+echo "14.8 11.91 19" | ./sum-tool

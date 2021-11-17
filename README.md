@@ -5,3 +5,4 @@ This is a collection of small C-tools.
 ### Mathematical
 * min-tool: calculates the minimum of a list of values
 * max-tool: calculates the maximum of a list of values
+* sum-tool: calculates the sum of a list of values
